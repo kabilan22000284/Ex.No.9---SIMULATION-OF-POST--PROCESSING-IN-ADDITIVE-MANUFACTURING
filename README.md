@@ -55,8 +55,8 @@
 
 ![image](https://github.com/divyakumars/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393621/16a77c04-5d9c-4adc-8bf4-abd152757e0e)
 
-### Name: ALAGU NACHIYAR K
-### Register Number: 212222240006
+### Name: Kabilan V
+### Register Number: 212222100018
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed
